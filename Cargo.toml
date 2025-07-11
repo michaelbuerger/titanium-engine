@@ -1,0 +1,10 @@
+[package]
+name = "titanium-engine"
+version = "0.1.0"
+edition = "2024"
+description = "Lightweight and performant graphics engine built on top of wgpu."
+readme = "README.md"
+repository = "https://github.com/michaelbuerger/titanium-engine"
+license-file = "LICENSE"
+
+[dependencies]
